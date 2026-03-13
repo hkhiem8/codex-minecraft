@@ -1,0 +1,10 @@
+export const CHUNK_SIZE = 16;
+export const WORLD_HEIGHT = 64;
+export const LOAD_RADIUS = 5;
+export const PLAYER_HEIGHT = 1.8;
+export const PLAYER_RADIUS = 0.35;
+export const PLAYER_EYE_HEIGHT = 1.62;
+export const GRAVITY = 28;
+export const JUMP_SPEED = 9.5;
+export const MOVE_SPEED = 5.5;
+export const MAX_STEP = 0.01;
